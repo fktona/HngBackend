@@ -18,7 +18,7 @@ app.get('/api', (req, res) => {
     current_day: currentDay,
     utc_time: utcTime,
     track: track,
-    github_file_url: '6l://https://github.com/fktona/HngBackend',
+    github_file_url: 'https://github.com/fktona/HngBackend/blob/master/Index.js',
     github_repo_url: 'https://github.com/fktona/HngBackend',
     status_code: 200,
   };
